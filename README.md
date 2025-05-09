@@ -7,3 +7,5 @@ Where you can find links to my Deep Learning projects.
 - [Crop Disease Identification and Classification](https://github.com/abdulmumeen-abdullahi/Crop-Disease-Identification-and-Classification) <br/>
 - [Natural Disaster Damage Image Classification](https://github.com/abdulmumeen-abdullahi/Natural-Disaster-Image-Classification) <br/>
 
+## Object Detection
+- [Objects Detection in Flood Damage](https://github.com/abdulmumeen-abdullahi/Object-Detection-in-Flood-Damage) <br/>
